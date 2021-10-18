@@ -14,6 +14,8 @@
 
 In the future, I plan to build my own library [`excron`](https://github.com/kchrismucheke/excron) to replace Oban
 
+I've also included the default Github Actions workflow for phoenix to help you run some CI
+
 To start your clone the project then do the following:
 
   * Install dependencies with `mix deps.get`
