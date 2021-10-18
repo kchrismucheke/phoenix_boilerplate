@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "deploy": "NODE_ENV=production postcss css/app.css -o ../priv/static/assets/app.css"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.3.4",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "postcss-cli": "^9.0.1",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.16"
+  },
+  "dependencies": {
+    "alpinejs": "^3.4.2",
+    "topbar": "^1.0.1"
+  }
+}
