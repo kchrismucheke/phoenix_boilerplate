@@ -34,7 +34,7 @@ defmodule PhoenixBoilerplate.MixProject do
   defp deps do
     [
       # Kaffy administration
-      {:kaffy, "~> 0.9.0"},
+      {:kaffy, "~> 0.9.0", override: true},
 
       {:guardian, "~> 2.0"},
       {:phoenix, "~> 1.6.2"},
