@@ -1,6 +1,6 @@
 # Phoenix Boilerplate
 
-### Simple Phoenix Liveview Boilerplate template with the following built in to save you hours of initial project configuration.
+Simple Phoenix Liveview Boilerplate template with the following built in to save you hours of initial project configuration.
   * Liveview
   * AlpineJS
   * Tailwind CSS
