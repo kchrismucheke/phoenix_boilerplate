@@ -12,7 +12,7 @@ Simple Phoenix Liveview Boilerplate template with the following built in to save
   * Wallaby library to help you test your UI
   * Oban library to run background jobs
 
-In the future, I plan to build my own library [`excron`](https://github.com/kchrismucheke/excron) to replace Oban
+In the future, I plan to integrate my own library [`excron`](https://github.com/kchrismucheke/excron) to replace Oban
 
 I've also included the default Github Actions workflow for phoenix to help you run some CI
 
