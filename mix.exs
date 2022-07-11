@@ -62,7 +62,7 @@ defmodule PhoenixBoilerplate.MixProject do
       # Oban for background jobs
       {:oban, "~> 2.9.2"},
       # Absinthe for GraphQL
-      {:absinthe, "~> 1.6.5"},
+      {:absinthe, "~> 1.7.0"},
       {:absinthe_plug, "~> 1.5.8"},
 
       # Bamboo for Emailing
