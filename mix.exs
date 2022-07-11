@@ -80,7 +80,7 @@ defmodule PhoenixBoilerplate.MixProject do
       {:sweet_xml, "~> 0.6"},
 
 
-      {:bcrypt_elixir, "~> 2.0"},
+      {:bcrypt_elixir, "~> 3.0"},
       {:credo, "~> 1.5", only: [:dev, :test], runtime: false},
       {:sobelow, "~> 0.8", only: :dev},
       {:ecto_psql_extras, "~> 0.7"},
