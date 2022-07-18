@@ -57,7 +57,7 @@ defmodule PhoenixBoilerplate.MixProject do
       # Additional packages
 
       # Wallaby for fetaure tests. NOTE! Requires chromedriver
-      {:wallaby, "~> 0.29.1", runtime: false, only: :test},
+      {:wallaby, "~> 0.30.1", runtime: false, only: :test},
 
       # Oban for background jobs
       {:oban, "~> 2.9.2"},
