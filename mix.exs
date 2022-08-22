@@ -74,7 +74,7 @@ defmodule PhoenixBoilerplate.MixProject do
       {:waffle, "~> 1.1.1"},
       {:waffle_ecto, "~> 0.0.9"},
       # If using Waffle with S3:
-      {:ex_aws, "~> 2.1.2"},
+      {:ex_aws, "~> 2.3.4"},
       {:ex_aws_s3, "~> 2.0"},
       {:hackney, "~> 1.9"},
       {:sweet_xml, "~> 0.6"},
