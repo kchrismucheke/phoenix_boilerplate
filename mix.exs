@@ -60,7 +60,7 @@ defmodule PhoenixBoilerplate.MixProject do
       {:wallaby, "~> 0.29.1", runtime: false, only: :test},
 
       # Oban for background jobs
-      {:oban, "~> 2.9.2"},
+      {:oban, "~> 2.13.4"},
       # Absinthe for GraphQL
       {:absinthe, "~> 1.6.5"},
       {:absinthe_plug, "~> 1.5.8"},
