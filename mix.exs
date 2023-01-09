@@ -66,7 +66,7 @@ defmodule PhoenixBoilerplate.MixProject do
       {:absinthe_plug, "~> 1.5.8"},
 
       # Bamboo for Emailing
-      {:bamboo, "~> 1.5"},
+      {:bamboo, "~> 2.3"},
       {:premailex, "~> 0.3.0"},
 
 
