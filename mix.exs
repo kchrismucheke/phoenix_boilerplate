@@ -37,7 +37,7 @@ defmodule PhoenixBoilerplate.MixProject do
       {:kaffy, "~> 0.9.0", override: true},
 
       {:guardian, "~> 2.0"},
-      {:phoenix, "~> 1.6.2"},
+      {:phoenix, "~> 1.7.0"},
       {:phoenix_ecto, "~> 4.4"},
       {:ecto_sql, "~> 3.6"},
       {:postgrex, ">= 0.0.0"},
